@@ -2,7 +2,7 @@ import { useEffect, useState, useContext } from 'react';
 import { auth } from '../../firebase-config';
 import classes from './Login.module.css';
 import LoginForm from './LoginForm/LoginForm';
-import RegisterForm from './RegisterForm/RegisterForm';
+import RegisterForm from '../Register/RegisterForm';
 import { useNavigate } from 'react-router-dom';
 
 const Login = () => {

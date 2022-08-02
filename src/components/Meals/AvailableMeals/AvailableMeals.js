@@ -1,7 +1,7 @@
 import classes from './AvailableMeals.module.css';
-import Card from '../UI/Card';
-import MealItem from './MealItem/MealItem';
-import api from '../../services/api';
+import Card from '../../UI/Card/Card';
+import MealItem from '../MealItem/MealItem';
+import api from '../../../services/api';
 import { useEffect, useState } from 'react';
 
 const AvailableMeals = () => {

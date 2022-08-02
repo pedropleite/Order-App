@@ -10,7 +10,7 @@ const MealItem = (props) => {
 
     const onAddToCartHandler = (amount) => {
         const item = { id: props.id, name: props.name, amount: amount, price: props.price };
-        cartCTX.addItems(item);
+        cartCTX.addItem(item);
     };
 
     return (

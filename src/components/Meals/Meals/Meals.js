@@ -1,8 +1,8 @@
-import MealsSummary from './MealsSummary';
-import AvailableMeals from './AvailableMeals';
-import ErrorPage from './ErrorPage';
+import MealsSummary from '../MealsSummary/MealsSummary';
+import AvailableMeals from '../AvailableMeals/AvailableMeals';
+import ErrorPage from '../ErrorPage/ErrorPage';
 import { useState, useEffect } from 'react';
-import { auth } from '../../firebase-config';
+import { auth } from '../../../firebase-config';
 
 const Meals = () => {
     const [loginIsValid, setLoginIsValid] = useState(true);
