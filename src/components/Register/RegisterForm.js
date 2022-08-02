@@ -1,7 +1,7 @@
 import classes from './RegisterForm.module.css';
-import useInput from '../../../hooks/useInput';
+import useInput from '../../hooks/useInput';
 import { createUserWithEmailAndPassword } from 'firebase/auth';
-import { auth } from '../../../firebase-config';
+import { auth } from '../../firebase-config';
 
 const emailVality = (value) => /\S+@\S+\.\S+/.test(value);
 const passwordVality = (value) => value.length >= 6 && value.trim() !== '';

@@ -1,7 +1,7 @@
 import classes from './Header.module.css';
 import HeaderCartButton from './HeaderCartButton';
-import MealsImage from '../../assets/meals.jpg';
-import { auth } from '../../firebase-config';
+import MealsImage from '../../../assets/meals.jpg';
+import { auth } from '../../../firebase-config';
 import { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 
@@ -31,7 +31,9 @@ const Header = (props) => {
             <header className={classes.header}>
                 <h1>ReactMeals</h1>
 
-                {loginIsValid && <HeaderCartButton logout={logout} currentUser={currentUser} toggleModal={props.toggleModal} />}
+                {loginIsValid && (
+                    <HeaderCartButton logout={logout} currentUser={currentUser} toggleModal={props.toggleModal} />
+                )}
             </header>
             <div className={classes['main-image']}>
                 <img src={MealsImage} />

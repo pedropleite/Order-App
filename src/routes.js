@@ -1,6 +1,6 @@
 import React from 'react';
 import { Route, Routes } from 'react-router-dom';
-import Meals from './components/Meals/Meals';
+import Meals from './components/Meals/Meals/Meals';
 import Login from './components/Login/Login';
 
 const Paths = () => {

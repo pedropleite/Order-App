@@ -3,7 +3,7 @@ import React from 'react';
 export default React.createContext({
     items: [],
     totalAmount: 0,
-    addItems: (item) => {},
+    addItem: (item) => {},
     removeItem: (id) => {},
-    handleLogin: () => {},
+    clearCart: () => {},
 });
