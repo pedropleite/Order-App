@@ -59,7 +59,6 @@
 - [x] Responsive and didactic catalog with all countries in the world.
 - [x] Search bar to facilitate the search and delivery of a specific country or flag.
 - [x] Customized modal for each country with its main information.
-- [x] Animation made using the Framer Motion tool to indicate that the page is loaded.
 <br><br>
 
 # Status do projeto 📌
