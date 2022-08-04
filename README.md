@@ -1,70 +1,73 @@
-# Getting Started with Create React App
+# Order App 🍱
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img width ="100%" src="https://github.com/pedropleite/Order-App/blob/master/READMEGif.gif">
+<br>
 
-## Available Scripts
+# PT-BR
 
-In the project directory, you can run:
+# Sobre esse projeto 🔍
+<p>Aplicação construída em ReactJS usando o Firebase como banco de dados, facilitando a autenticação e armazenamento de dados, além do auxílio de ferramentas como o Context API para uma melhor admnistração das propriedades, Styled-Components para uma estilização mais prática, Axios para Requisições HTTP e React-Router para a criação de rotas. </p>
+<br>
+<p>O projeto consiste basicamente em uma aplicação para pedidos de comida on-line. O sistema inicia na verificação de login, o usuário é instruido a se registrar ou logar, após isso ele é redirecionado para a página do cardápio, nessa página ele poderá escolher as comidas desejadas e adicionar quantidades personalizadas.</p>
+<br> 
+<p>Após o usuário definir qual será o pedido dele, o mesmo é levado para um modal onde haverá um formulário de registro de endereço, ao preenche-lo e confirmar o pedido dele é enviado para o banco de dados assim possibilitando a checagem.</p>
+<br> 
 
-### `npm start`
+# Tecnologias utilizadas 💻
+- <a href="https://www.javascript.com/">JavaScript</a>
+- <a href="https://pt-br.reactjs.org/">ReactJS</a>
+- <a href="https://styled-components.com/">Styled-Components</a>
+- <a href="https://axios-http.com/ptbr/docs/intro">Axios</a>
+- <a href="https://v5.reactrouter.com/web/guides/quick-start">React-Router</a>
+- <a href="https://pt-br.reactjs.org/docs/context.html">Context-API</a>
+<br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Features 🕹
+- [x] Sistema de autenticação completo no Front-End com mensagens responsivas ao seu erro, facilitando o entendimento do usuário.
+- [x] Carrinho totalmente personalizável, permite assim o usuário adicionar a quantidade que ele queira.
+- [x] Após finalizar o pedido, o mesmo será enviado para o banco de dados para futuras checagens.
+<br><br>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Status do projeto 📌
+- Finalizado 🛠
+<br>
+<br>
+<br>
+<br>
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# EN-US
 
-### `npm run build`
+# About This Project 🔍
+<p>Application built in ReactJS using Firebase as a database, facilitating authentication and data storage, in addition to the help of tools such as the Context API for a better management of properties, Styled-Components for a more practical styling, Axios for HTTP Requests and React-Router for creating routes. </p>
+<br>
+<p>The project basically consists of an application for online food ordering. The system starts at login verification, the user is instructed to register or log in, after that he is redirected to the menu page, on this page he can choose the desired foods and add personalized amounts.</p>
+<br> 
+<p>After the user defines what his order will be, it is taken to a modal where there will be an address registration form.</p>
+<br> 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Technologies Used 💻
+- <a href="https://www.javascript.com/">JavaScript</a>
+- <a href="https://pt-br.reactjs.org/">ReactJS</a>
+- <a href="https://styled-components.com/">Styled-Components</a>
+- <a href="https://axios-http.com/ptbr/docs/intro">Axios</a>
+- <a href="https://v5.reactrouter.com/web/guides/quick-start">React-Router</a>
+- <a href="https://pt-br.reactjs.org/docs/context.html">Context-API</a>
+<br>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Features 🕹
+- [x] Responsive and didactic catalog with all countries in the world.
+- [x] Search bar to facilitate the search and delivery of a specific country or flag.
+- [x] Customized modal for each country with its main information.
+- [x] Animation made using the Framer Motion tool to indicate that the page is loaded.
+<br><br>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Status do projeto 📌
+- Finished 🛠
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+##
+ <br><div align="center"> 
+   <a href="https://instagram.com/pedropml" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href = "mailto:pedroaksson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/pedro-paulo-361143226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
