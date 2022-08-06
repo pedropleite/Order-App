@@ -61,7 +61,7 @@
 - [x] Customized modal for each country with its main information.
 <br><br>
 
-# Status do projeto 📌
+# Project status 📌
 - Finished 🛠
 
 ##
