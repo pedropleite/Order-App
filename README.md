@@ -17,7 +17,7 @@
 ## Tecnologias utilizadas 💻
 - <a href="https://www.javascript.com/">JavaScript</a>
 - <a href="https://pt-br.reactjs.org/">ReactJS</a>
-- <a href="https://styled-components.com/">Styled-Components</a>
+- <a href="https://github.com/css-modules/css-modules">CSS Modules</a>
 - <a href="https://axios-http.com/ptbr/docs/intro">Axios</a>
 - <a href="https://v5.reactrouter.com/web/guides/quick-start">React-Router</a>
 - <a href="https://pt-br.reactjs.org/docs/context.html">Context-API</a>
@@ -51,7 +51,7 @@
 ## Technologies Used 💻
 - <a href="https://www.javascript.com/">JavaScript</a>
 - <a href="https://pt-br.reactjs.org/">ReactJS</a>
-- <a href="https://styled-components.com/">Styled-Components</a>
+- <a href="https://github.com/css-modules/css-modules">CSS Modules</a>
 - <a href="https://axios-http.com/ptbr/docs/intro">Axios</a>
 - <a href="https://v5.reactrouter.com/web/guides/quick-start">React-Router</a>
 - <a href="https://pt-br.reactjs.org/docs/context.html">Context-API</a>
