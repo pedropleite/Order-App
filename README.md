@@ -25,8 +25,9 @@
 
 ## Features 🕹
 - [x] Sistema de autenticação completo no Front-End com mensagens responsivas ao seu erro, facilitando o entendimento do usuário.
-- [x] Carrinho totalmente personalizável, permite assim o usuário adicionar a quantidade que ele queira.
-- [x] Após finalizar o pedido, o mesmo será enviado para o banco de dados para futuras checagens.
+- [x] Carrinho totalmente personalizável, permitindo assim o usuário adicionar a quantidade que ele queira dos produtos.
+- [x] Após finalizar o pedido, o usuário é levado para um formulário para acrescentar os dados do endereço, após isso o pedido é enviado para o banco de dados.
+- [x] Sistema de login e registro para ter o controle do usuário na aplicação. 
 <br><br>
 
 ## Status do projeto 📌
@@ -57,9 +58,10 @@
 <br>
 
 ## Features 🕹
-- [x] Responsive and didactic catalog with all countries in the world.
-- [x] Search bar to facilitate the search and delivery of a specific country or flag.
-- [x] Customized modal for each country with its main information.
+- [x] Complete Front-End authentication system with responsive messages to your error, making it easier for the user to understand.
+- [x] Fully customizable cart, allowing the user to add as many products as he wants.
+- [x] After finalizing the order, the user is taken to a form to add the address data, after which the order is sent to the database.
+- [x] Login and registration system to have user control in the application.
 <br><br>
 
 ## Project status 📌
