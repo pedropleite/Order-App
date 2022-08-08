@@ -7,6 +7,7 @@
 <br>
 
 ## Sobre esse projeto 🔍
+<p>Link para a aplicação: https://order-appp.netlify.app/</p>
 <p>Aplicação construída em ReactJS usando o Firebase como banco de dados, facilitando a autenticação e armazenamento de dados, além do auxílio de ferramentas como o Context API para uma melhor admnistração das propriedades, Styled-Components para uma estilização mais prática, Axios para Requisições HTTP e React-Router para a criação de rotas. </p>
 <br>
 <p>O projeto consiste basicamente em uma aplicação para pedidos de comida on-line. O sistema inicia na verificação de login, o usuário é instruido a se registrar ou logar, após isso ele é redirecionado para a página do cardápio, nessa página ele poderá escolher as comidas desejadas e adicionar quantidades personalizadas.</p>
@@ -41,6 +42,7 @@
 # EN-US
 
 ## About This Project 🔍
+<p>Link to the application: https://order-appp.netlify.app/</p>
 <p>Application built in ReactJS using Firebase as a database, facilitating authentication and data storage, in addition to the help of tools such as the Context API for a better management of properties, Styled-Components for a more practical styling, Axios for HTTP Requests and React-Router for creating routes. </p>
 <br>
 <p>The project basically consists of an application for online food ordering. The system starts at login verification, the user is instructed to register or log in, after that he is redirected to the menu page, on this page he can choose the desired foods and add personalized amounts.</p>
